@@ -7,4 +7,5 @@ export default defineConfig({
   resolve: {
     alias: [{ find: "@", replacement: "/src" }],
   },
+  base: 'https://github.com/Yber-M/aluraflix',
 })
